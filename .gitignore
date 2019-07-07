@@ -1,0 +1,15 @@
+# Gradle cache
+.gradle
+
+# Build output directories
+bin
+build
+out
+target
+
+# IDE-specific files and directories
+.classpath
+.factorypath
+.project
+.settings
+.idea
